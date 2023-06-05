@@ -1,2 +1,2 @@
 # git_test
-My first TOP repo.
+My first The Odin Project (TOP) repo.
